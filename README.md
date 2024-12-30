@@ -1,4 +1,4 @@
-# ksdn117/tcp-udp-test
+# tcp-udp-test
 Docker-image for TCP/UDP connectivity test.
 
 ## How to
