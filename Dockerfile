@@ -1,5 +1,5 @@
 FROM ubuntu:latest
-MAINTAINER	ksdn117 <ksdn117@gmail.com>
+MAINTAINER	sashimi3 <ksdn117@gmail.com>
 
 ADD run.sh /run.sh
 CMD ["/run.sh"]
